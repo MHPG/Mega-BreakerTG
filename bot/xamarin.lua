@@ -251,7 +251,7 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {108639314,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[⚡️ Xamarin Anti Spam Bot v1.8
